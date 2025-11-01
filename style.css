@@ -1,0 +1,6 @@
+div {
+  scale: 0.8;
+}
+div:hover {
+  scale: 1;
+}
