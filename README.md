@@ -1,2 +1,2 @@
 # Online_shop
-Simple html online shop with Bootstrap
+Simple html online shop page with Bootstrap
